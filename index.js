@@ -10,12 +10,14 @@ fs.readdir(source, (err, files) => {
 		glob(source + file +'/**/*.jpg', function (err, subFiles) {
 			if(subFiles.length>0) {
 				subFiles.forEach(getFile => {
-					var dirname = path.dirname(getFile);
-					var oldFileName = dirname + '/' + path.basename(getFile);
-					var newFileName = dirname + '/' + prefix + path.basename(getFile);
-					fs.rename(oldFileName, newFileName, (err, done) => {
-						if(err) throw err;
-					});
+					if(!path.basename(getFile).startsWith(prefix)) {
+						var dirname = path.dirname(getFile);
+						var oldFileName = dirname + '/' + path.basename(getFile);
+						var newFileName = dirname + '/' + prefix + path.basename(getFile);
+						fs.rename(oldFileName, newFileName, (err, done) => {
+							if(err) throw err;
+						});
+					}
 				});
 			}
 		});
