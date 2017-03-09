@@ -1,0 +1,12 @@
+{
+	"title"		: "Absolute",
+	"client"	: "Absolute Connection",
+	"finished"	: "2012",
+	"url"		: "absoluteconnection.co.id",
+	"category"	: [
+		"website corporate",
+		"CMS",
+		"mobile apps"
+	],
+	"cover"		: "port_abc_website.jpg"
+}
