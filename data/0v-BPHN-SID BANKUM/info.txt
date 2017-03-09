@@ -1,0 +1,10 @@
+{
+	"title"		: "Aplikasi SID Bantuan Hukum",
+	"client"	: "BPHN",
+	"finished"	: "2015",
+	"url"		: "sidbankum.bphn.go.id",
+	"category"	: [
+		"government app", "cms"
+	],
+	"cover"		: "sidbankum1.jpg"
+}

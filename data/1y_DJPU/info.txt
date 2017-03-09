@@ -1,0 +1,10 @@
+{
+	"title"		: "DJPU Annual Report",
+	"client"	: "DJPU",
+	"finished"	: "2013",
+	"url"		: "",
+	"category"	: [
+		"Annual Report", "Printed Design"
+	],
+	"cover"		: "kover.jpg"
+}

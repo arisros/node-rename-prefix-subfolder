@@ -1,0 +1,11 @@
+{
+	"title"		: "Kaha",
+	"client"	: "Kaha",
+	"finished"	: "2013",
+	"url"		: "www.dafamhotels.com/en",
+	"category"	: [
+		"engine booking",
+		"cms"
+	],
+	"cover"		: "port_kaha.jpg"
+}

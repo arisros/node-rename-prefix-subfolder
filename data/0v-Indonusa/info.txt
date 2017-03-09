@@ -1,0 +1,10 @@
+{
+	"title"		: "Indonusa Dwitama",
+	"client"	: "Indonusa Dwitama",
+	"finished"	: "2015",
+	"url"		: "www.indonusadwitama.com",
+	"category"	: [
+		"corporate website", "cms", "corporate photography"
+	],
+	"cover"		: "indonusa1.jpg"
+}

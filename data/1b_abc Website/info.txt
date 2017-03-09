@@ -1,0 +1,10 @@
+{
+	"title"		: "Absolute Website",
+	"client"	: "Absolute Connection",
+	"finished"	: "2013",
+	"url"		: "www.absoluteconnection.co.id",
+	"category"	: [
+		"website corporate", "CMS"
+	],
+	"cover"		: "kover.jpg"
+}

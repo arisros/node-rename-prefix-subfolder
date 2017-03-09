@@ -1,0 +1,10 @@
+{
+	"title"		: "Bank Papua",
+	"client"	: "Bank Papua",
+	"finished"	: "2013",
+	"url"		: "intranet",
+	"category"	: [
+		"Helpdesk", "CMS"
+	],
+	"cover"		: "kover.jpg"
+}

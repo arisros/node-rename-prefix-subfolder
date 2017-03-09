@@ -1,0 +1,10 @@
+{
+	"title"		: "DK3N",
+	"client"	: "DK3N",
+	"finished"	: "2012",
+	"url"		: "www.katigaonline.com",
+	"category"	: [
+		"Corporate Webiste", "cms"
+	],
+	"cover"		: "port_dk3n_home.jpg"
+}

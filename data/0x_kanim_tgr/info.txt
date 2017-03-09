@@ -1,0 +1,12 @@
+{
+	"title"		: "Website Kantor Imigrasi Tangerang",
+	"client"	: "Kantor Imigrasi Tangerang",
+	"finished"	: "2014",
+	"url"		: "http://tangerang.imigrasi.go.id/",
+	"category"	: [
+		"website goverment",
+		"CMS",
+		"mobile version"
+	],
+	"cover"		: "imigrasi-400.jpg"
+}

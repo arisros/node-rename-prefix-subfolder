@@ -1,0 +1,10 @@
+{
+	"title"		: "Pertagas",
+	"client"	: "Pertagas",
+	"finished"	: "2008",
+	"url"		: "intranet",
+	"category"	: [
+		"CMS", "E-Office"
+	],
+	"cover"		: "kover.jpg"
+}

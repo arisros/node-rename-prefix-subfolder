@@ -1,0 +1,12 @@
+{
+	"title"		: "The Breeze",
+	"client"	: "SinarMas Land",
+	"finished"	: "2013",
+	"url"		: "thebreeze.bsdcity.com",
+	"category"	: [
+		"website corporate",
+		"responsive design",
+		"cms"
+	],
+	"cover"		: "kover.jpg"
+}

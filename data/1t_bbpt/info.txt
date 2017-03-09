@@ -1,0 +1,10 @@
+{
+	"title"		: "BBPT",
+	"client"	: "BBPT",
+	"finished"	: "2013",
+	"url"		: "intranet",
+	"category"	: [
+		"Database Monitoring", "CMS", "System Integrator"
+	],
+	"cover"		: "kover.jpg"
+}

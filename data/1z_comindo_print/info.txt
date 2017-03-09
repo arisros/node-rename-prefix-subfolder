@@ -1,0 +1,10 @@
+{
+	"title"		: "Comindo Printed Company Profile",
+	"client"	: "Comindo",
+	"finished"	: "2013",
+	"url"		: "intranet",
+	"category"	: [
+		"Annual Report", "Printed Design"
+	],
+	"cover"		: "kover.jpg"
+}

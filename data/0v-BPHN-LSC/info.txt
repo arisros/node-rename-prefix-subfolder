@@ -1,0 +1,10 @@
+{
+	"title"		: "Legal Smart CHannel",
+	"client"	: "BPHN",
+	"finished"	: "2015",
+	"url"		: "lsc.bphn.go.id",
+	"category"	: [
+		"web portal", "cms"
+	],
+	"cover"		: "lsc1.jpg"
+}

@@ -1,0 +1,10 @@
+{
+	"title"		: "Albea",
+	"client"	: "Albea",
+	"finished"	: "2015",
+	"url"		: "www.albea-group.id",
+	"category"	: [
+		"Corporate Webiste", "cms", "responsive"
+	],
+	"cover"		: "albea400250.jpg"
+}

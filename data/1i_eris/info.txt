@@ -1,0 +1,11 @@
+{
+	"title"		: "Eris",
+	"client"	: "Eris",
+	"finished"	: "2011",
+	"url"		: "intranet",
+	"category"	: [
+		"website corporate",
+		"cms"
+	],
+	"cover"		: "display.jpg"
+}

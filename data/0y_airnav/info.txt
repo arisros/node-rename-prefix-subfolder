@@ -1,0 +1,12 @@
+{
+	"title"		: "Airnav",
+	"client"	: "Airnav Indonesia",
+	"finished"	: "2014",
+	"url"		: "http://www.airnavindonesia.co.id/",
+	"category"	: [
+		"website corporate",
+		"cms",
+		"mobile version"
+	],
+	"cover"		: "airnav-400.jpg"
+}

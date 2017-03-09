@@ -1,0 +1,10 @@
+{
+	"title"		: "APLIKASI JFT PENYULUH HUKUM - Kementrian Hukum dan HAM RI",
+	"client"	: "BPHN",
+	"finished"	: "2015",
+	"url"		: "luhkum.bphn.go.id",
+	"category"	: [
+		"GOVERNMENT APP", "CMS"
+	],
+	"cover"		: "jft-home.png"
+}

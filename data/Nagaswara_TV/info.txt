@@ -1,0 +1,10 @@
+{
+	"title"		: "Nagaswara TV",
+	"client"	: "Nagaswara",
+	"finished"	: "",
+	"url"		: "nagaswara.docotel.net",
+	"category"	: [
+		"streaming website"
+	],
+	"cover"		: "kover.jpg"
+}

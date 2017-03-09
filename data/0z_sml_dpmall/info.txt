@@ -1,0 +1,12 @@
+{
+	"title"		: "DP Mall Semarang",
+	"client"	: "Sinar Mas Land",
+	"finished"	: "2013",
+	"url"		: "http://dpmallsemarang.com/site/",
+	"category"	: [
+		"website corporate",
+		"cms",
+		"responsive design"
+	],
+	"cover"		: "dpmall-400x25.jpg"
+}

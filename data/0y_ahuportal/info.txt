@@ -1,0 +1,12 @@
+{
+	"title"		: "AHU Portal",
+	"client"	: "Direktorat Perdata, Kementerian Hukum dan HAM",
+	"finished"	: "2014",
+	"url"		: "http://portal.ahu.web.id/",
+	"category"	: [
+		"government portal",
+		"cms",
+		"responsive"
+	],
+	"cover"		: "portal-400.jpg"
+}

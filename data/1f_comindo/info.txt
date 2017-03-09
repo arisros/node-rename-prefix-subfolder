@@ -1,0 +1,11 @@
+{
+	"title"		: "Comindo",
+	"client"	: "Comindo",
+	"finished"	: "2013",
+	"url"		: "www.comindo-tech.com",
+	"category"	: [
+		"web responsive design",
+		"cms"
+	],
+	"cover"		: "port_comindo.jpg"
+}

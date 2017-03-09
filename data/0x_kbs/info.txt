@@ -1,0 +1,12 @@
+{
+	"title"		: "cigadingport.com (Company Profile)",
+	"client"	: "PT Krakatau Bandar Samudra",
+	"finished"	: "2014",
+	"url"		: "http://kbs.docotel.net/",
+	"category"	: [
+		"WEBSITE CORPORATE",
+		"CMS",
+		"MOBILE VERSION"
+	],
+	"cover"		: "kbs-400.jpg"
+}

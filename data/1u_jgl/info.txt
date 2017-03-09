@@ -1,0 +1,10 @@
+{
+	"title"		: "JGL",
+	"client"	: "JGL",
+	"finished"	: "2013",
+	"url"		: "intranet",
+	"category"	: [
+		"Android Native"
+	],
+	"cover"		: "kover.jpg"
+}

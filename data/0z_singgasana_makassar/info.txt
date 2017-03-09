@@ -1,0 +1,12 @@
+{
+	"title"		: "Singgasana Hotel Makassar",
+	"client"	: "Singgasana",
+	"finished"	: "2013",
+	"url"		: "http://www.makassar.singgasanahotels.com/",
+	"category"	: [
+		"website corporate",
+		"cms",
+		"mobile version"
+	],
+	"cover"		: "singgasana-makasar-400x250.jpg"
+}

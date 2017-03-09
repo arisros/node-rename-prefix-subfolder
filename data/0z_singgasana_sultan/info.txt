@@ -1,0 +1,12 @@
+{
+	"title"		: "The Sultan Hotel Residance Jakarta",
+	"client"	: "Singgasana",
+	"finished"	: "2013",
+	"url"		: "http://www.sultanjakarta.com/",
+	"category"	: [
+		"website corporate",
+		"cms",
+		"mobile version"
+	],
+	"cover"		: "sultan-400x250.jpg"
+}

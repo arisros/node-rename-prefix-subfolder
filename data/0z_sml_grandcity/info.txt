@@ -1,0 +1,12 @@
+{
+	"title"		: "Grand City Balikpapan",
+	"client"	: "Sinar Mas Land",
+	"finished"	: "2013",
+	"url"		: "http://grandcitybalikpapan.com/",
+	"category"	: [
+		"website corporate",
+		"cms",
+		"responsive design"
+	],
+	"cover"		: "grand-city-400x250.jpg"
+}

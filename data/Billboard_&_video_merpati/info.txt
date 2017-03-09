@@ -1,0 +1,10 @@
+{
+	"title"		: "Merpati Video Editing & Billboard",
+	"client"	: "PT Merpati Nusantara Airlines",
+	"finished"	: "2012",
+	"url"		: "",
+	"category"	: [
+		"advertising"
+	],
+	"cover"		: "kover.jpg"
+}

@@ -1,0 +1,10 @@
+{
+	"title"		: "SIM E-Psychotest",
+	"client"	: "SIM",
+	"finished"	: "2011",
+	"url"		: "intranet",
+	"category"	: [
+		"web application"
+	],
+	"cover"		: "kover.jpg"
+}

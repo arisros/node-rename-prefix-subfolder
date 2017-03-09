@@ -1,0 +1,12 @@
+{
+	"title"		: "Sidad (Sistem Diklat Kemendagri)",
+	"client"	: "Kementerian Dalam Negeri",
+	"finished"	: "2014",
+	"url"		: "http://sidad.kemendagri.web.id/",
+	"category"	: [
+		"online diklat sitem",
+		"goverment app",
+		"CMS"
+	],
+	"cover"		: "kbs-400.jpg"
+}

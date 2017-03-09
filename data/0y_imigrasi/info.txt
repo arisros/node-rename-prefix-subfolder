@@ -1,0 +1,12 @@
+-{
+	"title"		: "Imigrasi",
+	"client"	: "Ditjen Imigrasi - Kemenkumham",
+	"finished"	: "2014",
+	"url"		: "http://www.imigrasi.go.id/",
+	"category"	: [
+		"government portal",
+		"cms",
+		"responsive"
+	],
+	"cover"		: "imigrasi-400.jpg"
+}

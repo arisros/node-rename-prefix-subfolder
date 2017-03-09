@@ -1,0 +1,12 @@
+{
+	"title"		: "School Guard",
+	"client"	: "School Guard",
+	"finished"	: "2012",
+	"url"		: "intranet",
+	"category"	: [
+		"cms",
+		"responsive mobile",
+		"website"
+	],
+	"cover"		: "port_school_guard.jpg"
+}

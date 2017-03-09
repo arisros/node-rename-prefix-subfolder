@@ -1,0 +1,12 @@
+{
+	"title"		: "Kominfo",
+	"client"	: "Kominfo",
+	"finished"	: "2012",
+	"url"		: "intranet",
+	"category"	: [
+		"cms",
+		"Monitoring Database",
+		"System Integrator"
+	],
+	"cover"		: "port_kominfo.jpg"
+}

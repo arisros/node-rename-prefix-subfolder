@@ -1,0 +1,10 @@
+{
+	"title"		: "KPKU",
+	"client"	: "KPKU",
+	"finished"	: "2012",
+	"url"		: "intranet",
+	"category"	: [
+		"cms"
+	],
+	"cover"		: "port_kpku.jpg"
+}

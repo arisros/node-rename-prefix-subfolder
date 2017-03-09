@@ -1,0 +1,10 @@
+{
+	"title"		: "Absolute Drawing Canvas",
+	"client"	: "Absolute Connection",
+	"finished"	: "2012",
+	"url"		: "intranet",
+	"category"	: [
+		"CMS"
+	],
+	"cover"		: "kover.jpg"
+}

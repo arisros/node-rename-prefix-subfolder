@@ -1,0 +1,11 @@
+{
+	"title"		: "Digital Library",
+	"client"	: "PT IMS",
+	"finished"	: "2012",
+	"url"		: "intranet",
+	"category"	: [
+		"website",
+		"CMS"
+	],
+	"cover"		: "kover.jpg"
+}
