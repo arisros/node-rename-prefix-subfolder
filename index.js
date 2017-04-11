@@ -1,43 +1,36 @@
 var fs = require('fs');
 var path = require('path');
 var glob = require('glob');
-var source = 'data/';
-var images = {
-	jpg 	:	'/**/*.jpg', 
-	jpeg	: '/**/*.jpeg', 
-	gif		: '/**/*.gif', 
-	svg		: '/**/*.svg', 
-	png		: '/**/*.png'
-	};
+var source = 'images/';
+var numPrefix = 0;
 
-/**
- * rename all image file to prefix
- * @param  {string} type of image
- */
-function renaming(type) {
-	fs.readdir(source, (err, files) => {
-		files.forEach(file => {
-			var prefix = file+'_';
-			glob(source + file + type, function (err, subFiles) {
-				if(subFiles.length>0) {
-					subFiles.forEach(getFile => {
-						if(!path.basename(getFile).startsWith(prefix)) {
-							var dirname = path.dirname(getFile);
-							var oldFileName = dirname + '/' + path.basename(getFile);
-							var newFileName = dirname + '/' + prefix + path.basename(getFile);
-							fs.rename(oldFileName, newFileName, (err, done) => {
-								if(err) throw err;
-							});
-						}
-					});
-				}
+// fs.readdir(source, (err, files) => {
+// 	files.forEach(file => {
+// 		var regex = /[.\s]+/g;
+// 		var folder = file.replace(/_/g, '-');
+// 		if(folder === 'ds_store') {} 
+// 		else {
+// 			var newName = folder;
+// 			fs.rename(source + '/' + file , source + '/' + newName, function(err) {
+// 				if(err) throw err;
+// 				console.log('completeRename');
+// 			});
+// 		}
+// 		numPrefix++;
+// 	});
+// });
+
+fs.readdir(source, (err,files) => {
+	files.forEach(file => {
+		var rootFolder = source + file;
+		fs.readdir(rootFolder, (err, eachFile) => {
+			eachFile.forEach(item => {
+				var newName = item.replace(/_/g, '-');
+				fs.rename(rootFolder + '/' + item , rootFolder + '/' + newName, function(err) {
+					if(err) throw err;
+					console.log('completeRename');
+				});
 			});
 		});
 	});
-}
-// invoke images
-renaming(images.png);
-renaming(images.jpg);
-renaming(images.jpeg);
-renaming(images.svg);
-renaming(images.gif);
+});
